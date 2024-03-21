@@ -1,0 +1,18 @@
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.ADGVFilterEventHandler: type is sealed.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.ADGVFilterMenuFilterType: type is a value type.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.ADGVFilterMenuSortType: type is a value type.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.Localization.ADGVStrings: type is not visible to exported or assembly(AdvancedDataGridView.0.1.0.10.Fakes).
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.Properties.Resources: type is not visible to exported or assembly(AdvancedDataGridView.0.1.0.10.Fakes).
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.SearchToolBarSearchEventHandler: type is sealed.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.TripleTreeNodeType: type is a value type.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate stub for ADGV.TripleTreeNode: type has no family visible contructors.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.ADGVFilterEventHandler: type is a delegate.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.AdvancedDataGridView+<>c__DisplayClass6: type is not supported because of internal limitations.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.ADGVFilterMenuFilterType: type is an enum.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.ADGVFilterMenuSortType: type is an enum.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.ADGVFilterMenu+<>c__DisplayClass3: type is not supported because of internal limitations.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.Localization.ADGVStrings: type is not visible to exported or assembly(AdvancedDataGridView.0.1.0.10.Fakes).
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.Properties.Resources: type is not visible to exported or assembly(AdvancedDataGridView.0.1.0.10.Fakes).
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.SearchToolBarSearchEventHandler: type is a delegate.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.SetFilterForm+FilterType: type is an enum.
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\Fakes\AdvancedDataGridView.fakes : warning : Cannot generate shim for ADGV.TripleTreeNodeType: type is an enum.

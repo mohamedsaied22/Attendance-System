@@ -1,0 +1,126 @@
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Attendance.exe.config
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Attendance.exe
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Attendance.pdb
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\AdvancedDataGridView.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Core.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Data.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Licensing.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfInput.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfListView.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Shared.Base.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\AdvancedDataGridView.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Core.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Data.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfInput.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfListView.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Shared.Base.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\fr\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\ru\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csprojAssemblyReference.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.AddDevice.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.AddUser.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.DataEmpty.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.AttendanceLoop.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Attendance.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Devices.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Login.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Logs.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Main.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Master.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Properties.Resources.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Search.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.TerminalFailure.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.UserActivation.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Users.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.GenerateResource.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.CopyComplete
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.exe
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.pdb
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\AdvancedDataGridView.0.1.0.10.Fakes.fakesconfig
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csprojFakesResolveAssemblyReference.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Accessibility.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\AdvancedDataGridView.0.1.0.10.Fakes.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\AdvancedDataGridView.0.1.0.10.Fakes.fakesconfig
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\AdvancedDataGridView.0.1.0.10.Fakes.pdb
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\AdvancedDataGridView.0.1.0.10.Fakes.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\AdvancedDataGridView.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\AdvancedDataGridView.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\fr\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Microsoft.Office.Interop.Excel.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\ru\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.Core.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.Core.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.Data.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.Data.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.DataSource.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.DataSource.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.GridCommon.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.GridCommon.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.Licensing.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.SfDataGrid.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.SfDataGrid.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.SfInput.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.SfInput.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.SfListView.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.SfListView.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.Shared.Base.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\b\Syncfusion.Shared.Base.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\f.ah
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\f.ch
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\f.cs
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\f.csproj
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\f.fakes
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\f.fakesconfig
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\o\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\o\AdvancedDataGridView.0.1.0.10.Fakes.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\o\AdvancedDataGridView.0.1.0.10.Fakes.pdb
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\o\f.csproj.CopyComplete
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\o\f.csproj.CoreCompileInputs.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\o\f.csproj.FileListAbsolute.txt
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\adgv\o\f.csprojAssemblyReference.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Debug\Fakes\fakes.args
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\AttendanceLoop.exe.config
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\AttendanceLoop.exe
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\AttendanceLoop.pdb
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\AdvancedDataGridView.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Core.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Data.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.DataSource.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.GridCommon.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Licensing.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfDataGrid.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfInput.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfListView.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Shared.Base.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\AdvancedDataGridView.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Core.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Data.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.DataSource.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.GridCommon.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfDataGrid.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfInput.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.SfListView.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\Syncfusion.Shared.Base.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\fr\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Debug\ru\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.AssemblyReference.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.SuggestedBindingRedirects.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.DataEmpty.resources
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.AttendanceLoop.resources
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.Properties.Resources.resources
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.GenerateResource.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.CoreCompileInputs.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\Attendance.csproj.CopyComplete
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\AttendanceLoop.exe
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Debug\AttendanceLoop.pdb

@@ -1,0 +1,86 @@
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Attendance.exe.config
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Attendance.exe
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Attendance.pdb
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\AdvancedDataGridView.0.1.0.10.Fakes.fakesconfig
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\AdvancedDataGridView.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Core.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Data.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.DataSource.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.GridCommon.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Licensing.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfDataGrid.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfInput.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfListView.WinForms.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Shared.Base.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\AdvancedDataGridView.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Core.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Data.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.DataSource.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.GridCommon.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfDataGrid.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfInput.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfListView.WinForms.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Shared.Base.xml
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\fr\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\ru\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\bin\Release\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.csprojFakesResolveAssemblyReference.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.csprojAssemblyReference.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.AddDevice.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.AddUser.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.DataEmpty.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.AttendanceLoop.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Attendance.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Devices.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Login.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Logs.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Main.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Master.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Properties.Resources.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Search.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.TerminalFailure.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.UserActivation.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.Users.resources
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.csproj.GenerateResource.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.csproj.CoreCompileInputs.cache
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.csproj.CopyComplete
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.exe
+E:\ZK SDK\BioMatrix\BioMatrix\BioMetrixCore\obj\Release\Attendance.pdb
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.csprojFakesResolveAssemblyReference.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.csprojAssemblyReference.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.DataEmpty.resources
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.AttendanceLoop.resources
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.csproj.GenerateResource.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.csproj.CoreCompileInputs.cache
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\AttendanceLoop.exe.config
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\AttendanceLoop.exe
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\AttendanceLoop.pdb
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\AdvancedDataGridView.0.1.0.10.Fakes.fakesconfig
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\AdvancedDataGridView.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Core.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Data.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.DataSource.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.GridCommon.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Licensing.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfDataGrid.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfInput.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfListView.WinForms.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Shared.Base.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\AdvancedDataGridView.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Core.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Data.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.DataSource.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.GridCommon.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfDataGrid.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfInput.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.SfListView.WinForms.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\Syncfusion.Shared.Base.xml
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\fr\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\ru\AdvancedDataGridView.resources.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\bin\Release\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.Properties.Resources.resources
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\Attendance.csproj.CopyComplete
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\AttendanceLoop.exe
+E:\ZK SDK\BioMatrix - AttendanceLoop\BioMatrix\BioMetrixCore\obj\Release\AttendanceLoop.pdb
